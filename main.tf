@@ -39,23 +39,6 @@ resource "aws_subnet" "subnet-2" {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # # 1. Create vpc
 
 # resource "aws_vpc" "prod-vpc" {
