@@ -5,7 +5,7 @@ provider "aws" {
 }
 
 variable "subnet_prefix" {
-  description = "cidr block for the subnet"
+  description = "cidr block for the subnet" 
 
 }
 
